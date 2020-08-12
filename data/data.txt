@@ -1,0 +1,45 @@
+This is an explanation of the current data files that I have
+
+
+DiscountShare.csv - Not sure
+
+
+### Population Data ###
+
+nyc_pop - population of all five boroughs. (NYC Open Data)
+
+projected_pop.csv - NYC population data of all five boroughs with projections to 2040
+
+
+### Lifestyle Data ###
+
+311 Service Request - Data on NYC Service Requests. (NYC Open Data)
+
+### Economic Factors
+conpriceindex - Consumer Price Index (https://fred.stlouisfed.org/series/CUUR0000SA0R#0)
+
+
+### Housing Market Data ###
+
+inventory.csv - house sale inventory (StreetEasy)
+
+recordedSalesVolume - Number of sales recorded per year (StreetEasy)
+
+rentalasking.csv - Asking price of rentals (StreetEasy)
+
+rentalInventory.csv - Inventory of Available Rentals
+
+final_inventory_data (Cleaned data)
+final_rentals_data (Cleaned data)
+
+### Income Data ###
+
+f01ar.xls - Census Bureau Historical Income For Families (Census)
+adjustedincome.csv - Income using 2018 as Base year
+
+"""
+Source: U.S. Bureau of the Census, Current Population Survey,
+Annual Social and Economic Supplements.
+For information on confidentiality protection, sampling error, nonsampling error,
+and definitions, see <www2.census.gov/programs-surveys/cps/techdocs/cpsmar19.pdf>.
+"""
