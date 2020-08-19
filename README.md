@@ -1,4 +1,4 @@
-# NYC_RealEstate
+# NYC Real Estate
 
 ### Overview
 <p>I wanted to take a look at Real Estate in New York City, how much home values change over time. Then I wanted to build a model
@@ -15,7 +15,6 @@ to project the value of these homes across each borough. </p>
 <ul>
 <li>AR Model</li>
 <li>ARMA Model</li>
-<li>ARIMA Model</li>
 <li>ARIMA Model</li>
 </ul>
 
