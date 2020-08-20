@@ -16,6 +16,8 @@ to project the value of these homes across each borough. </p>
 <li>AR Model</li>
 <li>ARMA Model</li>
 <li>ARIMA Model</li>
+  <li>SARIMAX Model</li>
+  <li>LSTM Model</li>
 </ul>
 
 ![Time_Series](/assets/graphs/ARMA_Manhattan.png)
